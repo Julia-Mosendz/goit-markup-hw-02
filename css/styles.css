@@ -97,6 +97,11 @@ letter-spacing: 0.02em;
 color: #ffffff; 
 }
 
+.section-four-header {font-weight: 500; 
+font-size: 20px; 
+line-height: 1.2; 
+color: #2e2f42;}
+
 
 
 
@@ -113,4 +118,4 @@ color: #ffffff;
 .page-footer {background-color: #2e2f42;}
 .footer-paragraph {line-height: 1.5; 
 color: #F4F4FD; 
-letter-spacing: 0.02em;}
+letter-spacing: 0.02em}
