@@ -46,13 +46,13 @@ a {text-decoration: none;}
 .contacts-link:focus {
 color: #404bbf;}
 
-.page-footer {background-color: #2e2f42;;}
 
 
 
-.section1 {background-color: #2e2f42; 
+
+.section-one {background-color: #2e2f42; 
 }
-.section1-button {background-color: #4D5AE5; 
+.button {background-color: #4D5AE5; 
 font-weight: 500; 
 line-height: 1.5; 
 letter-spacing: 0.04em; 
@@ -60,31 +60,31 @@ color: #ffffff;
 cursor: pointer; 
 }
 
-.section1-button:hover {background-color: #404BBF;}
-.section1-button:focus {background-color: #404BBF;}
+.button:hover {background-color: #404BBF;}
+.button:focus {background-color: #404BBF;}
 
 
-.section2-header {font-weight: 500; 
+.section-two-header {font-weight: 500; 
 font-size: 20px; 
 line-height: 1.2; 
 letter-spacing: 0.02em; 
 color: #2e2f42;}
 
-.section2-paragraph {line-height: 1.5; 
+.section-two-paragraph {line-height: 1.5; 
 letter-spacing: 0.02em; 
 }
 
 
-.section3 {background-color: #F4F4FD;}
+.section-three {background-color: #F4F4FD;}
 
-.section3-header {font-size: 36px; 
+.section-three-header {font-size: 36px; 
 line-height: 1.11; 
 text-align: center; 
 letter-spacing: 0.02em; 
 text-transform: capitalize; 
 color: #2e2f42;}
 
-.section3-list {background-color: #FFFFFF;}
+.section-three-list {background-color: #FFFFFF;}
 
 
 
@@ -96,3 +96,21 @@ text-align: center;
 letter-spacing: 0.02em; 
 color: #ffffff; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.page-footer {background-color: #2e2f42;}
+.footer-paragraph {line-height: 1.5; 
+color: #F4F4FD; 
+letter-spacing: 0.02em;}
